@@ -8,7 +8,7 @@ body {
 header {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   font-size: 2rem;
-  background-image: url("../imgs/keybg1.jpg");
+  background-image: url("../imgs/keybgheader.jpg");
   background-size: cover;
   background-position: center;
   margin: 0;
@@ -67,7 +67,7 @@ main {
 }
 
 footer {
-  background-image: url(../imgs/keybg3.jpg);
+  background-image: url("../imgs/keybgheader.jpg");
   background-size: cover;
   background-position: center;
   width: 100%;
